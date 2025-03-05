@@ -1,6 +1,6 @@
 # 使用 CloudScraper 与代理
 
-[![推广图](https://github.com/luminati-io/LinkedIn-Scraper/raw/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://www.bright.cn/) 
+[![推广图](https://github.com/bright-cn/LinkedIn-Scraper/raw/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://www.bright.cn/) 
 
 本指南介绍如何在 CloudScraper 中进行代理集成、IP 轮换以及使用需要身份验证的代理，以实现无缝抓取。
 
